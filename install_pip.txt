@@ -1,0 +1,4 @@
+pip install bs4
+pip uninstall telebot
+pip install pyTelegramBotAPI
+pip install pytz
