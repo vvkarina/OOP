@@ -10,7 +10,7 @@ import time
 
 
 # Данные для входа
-token = '5817160148:AAFfh1RZ3vCyCzgVMYw0YH1YiGvp2EDLg8E'
+token = 'TOKEN'
 bot = telebot.TeleBot(token)
 
 # Создание ключевых кнопок меню
