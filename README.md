@@ -8,8 +8,10 @@
 ## Использование
 1.	Необходимо клонировать репозиторий https://github.com/vvkarina/OOP.
 2.	Установить и активировать виртуальное окружение:
+```
 	python -m venv venv
 	venv/Scripts/activate
+```
 3.	Установить зависимости.
 ```
 	pip install bs4
